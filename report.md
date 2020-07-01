@@ -32,7 +32,9 @@ N_TIME_STEPS = 20       # update the networks every 20 timesteps
 ```
 
 ### Plot of Results 
-The plot below shows the mean score of 20 agents during each episode. The averaged score from episode 18 to 118 is above 30.0.
+The plot below shows the mean score of 20 agents during each episode.
+
+The averaged score between episode 18 and 118 is above 30. So it took me 118 episodes in total, to be able to watch an average reward (over 100 episodes, and over all 20 agents) of at least +30.
 
 <img src="download.png" width="700" height="400" />
 
